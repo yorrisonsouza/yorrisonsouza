@@ -24,9 +24,11 @@
 - Pentester Júnior / Red Team
 - Participação em CTFs, Bug Bounty ou desafios técnicos
 
-  📫 Me encontre por aqui:
-- [Instagram](https://www.instagram.com/yorrisonsouza29/)
-- Email: yorrison.souza.corporativo@gmail.com
+# 📫 Contato
+- 📧 Email:yorrison.souza.corporativo@gmail.com
+- 🔗 LinkedIn:(https://www.instagram.com/yorrisonsouza29/)
+- 🧠 TryHackMe: https://tryhackme.com/p/SEU_NOME
+- 🔓 Hack The Box: https://app.hackthebox.com/profile/SEU_ID
 - Em breve: blog sobre pentest e labs pessoais
 
 💡 “A segurança perfeita é uma ilusão. Mas quanto mais eu entender o sistema, menos ilusório se torna o meu ataque.”
