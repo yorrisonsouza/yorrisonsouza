@@ -1,16 +1,33 @@
-## Hi there 👋
+💀 Felipe Yorrison — Red Team 
+👋 Olá! Sou o Felipe, estudante de Ciência da Computação e apaixonado por segurança ofensiva, 
+   pentest e tudo que envolve descobrir como os sistemas funcionam… e como quebrá-los 😈.
 
-<!--
-**yorrisonsouza/yorrisonsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Atualmente focado no desenvolvimento de habilidades em Red Team, com ênfase em:
+- Testes de invasão (web, rede, aplicações)
+- Exploração de vulnerabilidades (OWASP Top 10, CVEs)
+- Automatização de tarefas com Python e Bash
+- Reconhecimento e footprinting
 
-Here are some ideas to get you started:
+🛠️ Ferramentas e tecnologias:
+- Kali Linux, Parrot OS, Metasploit, Burp Suite, Nmap, SQLmap, Nikto, Hydra, Wireshark
+- Scripts em Python para automação de scans e bruteforce
+- Docker, VirtualBox, Git
+- Plataformas: TryHackMe (⚔️ em progresso), Hack The Box (🔓 user)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Projetos e labs:
+- Ambientes de laboratório com DVWA, Metasploitable, OWASP Juice Shop e CTFs.
+- Scripts de automação para enumeração de diretórios e serviços.
+- Relatórios simulados de pentest com base em boas práticas.
+
+📌 Estou em busca de oportunidades como:
+- Estagiário ou Analista Júnior em Segurança Ofensiva
+- Pentester Júnior / Red Team
+- Participação em CTFs, Bug Bounty ou desafios técnicos
+
+📫 Me encontre por aqui:
+- [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
+- Email: seuemail@dominio.com
+- Em breve: blog sobre pentest e labs pessoais
+
+💡 “A segurança perfeita é uma ilusão. Mas quanto mais eu entender o sistema, menos ilusório se torna o meu ataque.”
+
