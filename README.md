@@ -24,9 +24,9 @@
 - Pentester Júnior / Red Team
 - Participação em CTFs, Bug Bounty ou desafios técnicos
 
-📫 Me encontre por aqui:
-- [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
-- Email: seuemail@dominio.com
+  📫 Me encontre por aqui:
+- [Instagram](https://www.instagram.com/yorrisonsouza29/)
+- Email: yorrison.souza.corporativo@gmail.com
 - Em breve: blog sobre pentest e labs pessoais
 
 💡 “A segurança perfeita é uma ilusão. Mas quanto mais eu entender o sistema, menos ilusório se torna o meu ataque.”
