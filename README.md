@@ -1,35 +1,79 @@
-💀 Felipe Yorrison — Red Team 
-👋 Olá! Sou o Felipe, estudante de Ciência da Computação e apaixonado por segurança ofensiva, 
-   pentest e tudo que envolve descobrir como os sistemas funcionam… e como quebrá-los 😈.
+# 🛡️ Bem-vindo(a) ao meu GitHub!
 
-🔍 Atualmente focado no desenvolvimento de habilidades em Red Team, com ênfase em:
-- Testes de invasão (web, rede, aplicações)
-- Exploração de vulnerabilidades (OWASP Top 10, CVEs)
-- Automatização de tarefas com Python e Bash
-- Reconhecimento e footprinting
+Olá! Sou um profissional de **Cybersecurity** especializado em **Testes de Intrusão (Pentest)**, com foco em segurança ofensiva, análise de vulnerabilidades e hardening de sistemas. Minha missão é **identificar, explorar e mitigar falhas de segurança** em redes, aplicações e sistemas, ajudando empresas e pessoas a protegerem seus ativos digitais.
 
-🛠️ Ferramentas e tecnologias:
-- Kali Linux, Parrot OS, Metasploit, Burp Suite, Nmap, SQLmap, Nikto, Hydra, Wireshark
-- Scripts em Python para automação de scans e bruteforce
-- Docker, VirtualBox, Git
-- Plataformas: TryHackMe (⚔️ em progresso), Hack The Box (🔓 user)
+---
 
-📚 Projetos e labs:
-- Ambientes de laboratório com DVWA, Metasploitable, OWASP Juice Shop e CTFs.
-- Scripts de automação para enumeração de diretórios e serviços.
-- Relatórios simulados de pentest com base em boas práticas.
+## ⚔️ Áreas de Atuação
 
-📌 Estou em busca de oportunidades como:
-- Estagiário ou Analista Júnior em Segurança Ofensiva
-- Pentester Júnior / Red Team
-- Participação em CTFs, Bug Bounty ou desafios técnicos
+- 🕵️‍♂️ **Reconhecimento e Footprinting**
+- 🔍 **Enumeração de Serviços e Hosts**
+- 💥 **Exploração de Vulnerabilidades (Web, Rede e Sistemas)**
+- 🧠 **Engenharia Social (Red Team)**
+- 🗝️ **Pós-Exploração e Movimentação Lateral**
+- 🧱 **Bypass de AV/EDR e Evasão**
+- 🧾 **Relatórios Técnicos e Recomendação de Mitigações**
 
-# 📫 Contato
-- 📧 Email:yorrison.souza.corporativo@gmail.com
-- 🔗 LinkedIn:(https://www.instagram.com/yorrisonsouza29/)
-- 🧠 TryHackMe: https://tryhackme.com/p/SEU_NOME
-- 🔓 Hack The Box: https://app.hackthebox.com/profile/SEU_ID
-- Em breve: blog sobre pentest e labs pessoais
+---
+
+## 🧰 Ferramentas que domino
+
+| Categoria              | Ferramentas                          |
+|------------------------|--------------------------------------|
+| Scanners               | Nmap, Masscan, RustScan              |
+| Web Pentest            | Burp Suite, OWASP ZAP, SQLmap        |
+| Exploração             | Metasploit, Exploit-DB, RCE Scripts  |
+| Pós-exploração         | Mimikatz, WinPEAS, LinPEAS           |
+| Análise de rede        | Wireshark, tcpdump                   |
+| Red Team / Evasão      | Covenant, Sliver, C2 frameworks      |
+| Scripting              | Bash, Python, PowerShell             |
+
+---
+
+## 🧪 Ambientes de Teste
+
+Trabalho constantemente em laboratórios locais e online:
+
+- 🔹 **TryHackMe**: [Perfil público aqui](https://tryhackme.com/)
+- 🔹 **Hack The Box**: [Perfil aqui](https://www.hackthebox.com/)
+- 🔹 Ambientes locais com **Kali Linux**, **Metasploitable**, **Active Directory em VMs**, **CTFs** diversos.
+
+---
+
+## 📂 Repositórios em Destaque
+
+- 🔐 [`pentest-labs`](https://github.com/SEU_USUARIO/pentest-labs): Exploração documentada de labs, enumeração e scripts.
+- 📜 [`cheatsheets-pentest`](https://github.com/SEU_USUARIO/cheatsheets-pentest): Guias rápidos de ataque e pós-exploração.
+- ⚙️ [`scripts-ofensivos`](https://github.com/SEU_USUARIO/scripts-ofensivos): Scripts em Python, Bash e PowerShell para automações e ataques customizados.
+
+---
+
+## 📚 Certificações (ou metas)
+
+- ✅ eJPT – INE (Junior Penetration Tester)
+- 🏁 [Meta] OSCP – Offensive Security
+- 🎯 [Meta] CRTO – Red Team Operator
+- 🔒 [Meta] CompTIA Pentest+
+
+---
+
+## 📫 Contato
+
+Entre em contato ou veja mais do meu trabalho:
+
+- 🌐 [Seu site pessoal ou portfólio]  
+- 📧 yorrison.souza.corporativo@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/SEULINK)  
+- 🐙 [GitHub](https://www.instagram.com/yorrisonsouza29/)
+
+---
+
+## ⚠️ Disclaimer
+
+> Todos os conteúdos deste repositório são para **fins educacionais e éticos**. Nenhuma técnica aqui descrita deve ser utilizada contra sistemas sem autorização. Hacking ético é sobre **consentimento e responsabilidade**.
+
+🧠 “Hack the system. Understand it. Secure it.”  
+🔗 *Keep learning. Keep breaking. Keep building.*
 
 💡 “A segurança perfeita é uma ilusão. Mas quanto mais eu entender o sistema, menos ilusório se torna o meu ataque.”
 
