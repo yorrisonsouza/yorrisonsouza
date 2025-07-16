@@ -1,72 +1,51 @@
 # 🛡️ Bem-vindo(a) ao meu GitHub!
 
-Olá! Sou um profissional de **Cybersecurity** especializado em **Testes de Intrusão (Pentest)**, com foco em segurança ofensiva, análise de vulnerabilidades e hardening de sistemas. Minha missão é **identificar, explorar e mitigar falhas de segurança** em redes, aplicações e sistemas, ajudando empresas e pessoas a protegerem seus ativos digitais.
+## 🔍 Perito em Forense Digital | Cybersecurity | Investigação de Crimes Cibernéticos
+
+Sou um profissional de **Cibersegurança** com especialização em **Perícia Forense Digital**, dedicado à investigação de crimes cibernéticos com foco na **proteção de crianças** e no **combate ao tráfico humano**.
+
+Utilizo técnicas avançadas de **OSINT**, **recuperação de dados deletados**, **análise de comunicações criptografadas** e **preservação de evidências digitais** para rastrear, documentar e apoiar investigações éticas e juridicamente válidas.
 
 ---
 
-## ⚔️ Áreas de Atuação
+### 💼 Áreas de Atuação
 
-- 🕵️‍♂️ **Reconhecimento e Footprinting**
-- 🔍 **Enumeração de Serviços e Hosts**
-- 💥 **Exploração de Vulnerabilidades (Web, Rede e Sistemas)**
-- 🧠 **Engenharia Social (Red Team)**
-- 🗝️ **Pós-Exploração e Movimentação Lateral**
-- 🧱 **Bypass de AV/EDR e Evasão**
-- 🧾 **Relatórios Técnicos e Recomendação de Mitigações**
-
----
-
-## 🧰 Ferramentas que domino
-
-| Categoria              | Ferramentas                          |
-|------------------------|--------------------------------------|
-| Scanners               | Nmap, Masscan, RustScan              |
-| Web Pentest            | Burp Suite, OWASP ZAP, SQLmap        |
-| Exploração             | Metasploit, Exploit-DB, RCE Scripts  |
-| Pós-exploração         | Mimikatz, WinPEAS, LinPEAS           |
-| Análise de rede        | Wireshark, tcpdump                   |
-| Red Team / Evasão      | Covenant, Sliver, C2 frameworks      |
-| Scripting              | Bash, Python, PowerShell             |
+- 🔐 Forense Digital e Ciberinvestigação  
+- 🧠 OSINT (Open Source Intelligence)  
+- 💾 Recuperação e análise de dados deletados  
+- 📱 Análise de dispositivos e sistemas comprometidos  
+- 📡 Rastreio de comunicações e comportamento suspeito  
+- 📊 Apoio a SOCs e forças-tarefa em cibercrimes graves  
 
 ---
 
-## 🧪 Ambientes de Teste
+### 🎯 Missão
 
-Trabalho constantemente em laboratórios locais e online:
-
-- 🔹 **TryHackMe**: [Perfil público aqui](https://tryhackme.com/)
-- 🔹 **Hack The Box**: [Perfil aqui](https://www.hackthebox.com/)
-- 🔹 Ambientes locais com **Kali Linux**, **Metasploitable**, **Active Directory em VMs**, **CTFs** diversos.
+Atuar de forma ética, responsável e altamente técnica no combate aos crimes digitais, colaborando com **ONGs**, **autoridades** e **empresas** para proteger os mais vulneráveis em ambientes digitais.
 
 ---
 
-## 📂 Repositórios em Destaque
+### 🛠️ Tecnologias e Ferramentas
 
-- 🔐 [`pentest-labs`](https://github.com/SEU_USUARIO/pentest-labs): Exploração documentada de labs, enumeração e scripts.
-- 📜 [`cheatsheets-pentest`](https://github.com/SEU_USUARIO/cheatsheets-pentest): Guias rápidos de ataque e pós-exploração.
-- ⚙️ [`scripts-ofensivos`](https://github.com/SEU_USUARIO/scripts-ofensivos): Scripts em Python, Bash e PowerShell para automações e ataques customizados.
-
----
-
-## 📚 Certificações (ou metas)
-
-- ✅ eJPT – INE (Junior Penetration Tester)
-- 🏁 [Meta] OSCP – Offensive Security
-- 🎯 [Meta] CRTO – Red Team Operator
-- 🔒 [Meta] CompTIA Pentest+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-blue?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-darkblue?style=for-the-badge)
+![Spiderfoot](https://img.shields.io/badge/Spiderfoot-gray?style=for-the-badge)
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
-Entre em contato ou veja mais do meu trabalho:
-
-- 🌐 [Seu site pessoal ou portfólio]  
-- 📧 yorrison.souza.corporativo@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/SEULINK)  
-- 🐙 [GitHub](https://www.instagram.com/yorrisonsouza29/)
+- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+- E-mail: [seuemail@exemplo.com(yorrison.souza.corporativo@gmail.com)  
+- Portfólio: [seuportfolio.com](https://seuportfolio.com)
 
 ---
+
+> ⚠️ Este perfil é voltado à **pesquisa, prevenção e investigação ética de crimes cibernéticos**, com ênfase na **proteção de vítimas** e no **uso responsável da tecnologia**.
+
 
 ## ⚠️ Disclaimer
 
