@@ -60,8 +60,8 @@ Atuar com responsabilidade, organização e conhecimento técnico para garantir 
 
 ### 📫 Contato
 
-- 🔗 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/felipe-gomes-1536b8372/)  
-- 📧 E-mail: [seuemail@exemplo.com](yorrison.souza.corporativo@gmail.com)  
+- 🔗 LinkedIn: [felipe-gomes](https://www.linkedin.com/in/felipe-gomes-1536b8372/)  
+- 📧 E-mail: [Gmail](yorrison.souza.corporativo@gmail.com)  
 - 🌐 Portfólio: [seuportfolio.com](https://seuportfolio.com)  
 
 ---
@@ -75,16 +75,6 @@ Atuar com responsabilidade, organização e conhecimento técnico para garantir 
 > Todos os conteúdos deste repositório são para **fins educacionais e práticos** na área de administração de redes. As técnicas devem ser aplicadas com autorização e responsabilidade.
 
 ---
-
-🧠 “Conheça sua rede. Administre com eficiência. Garanta a segurança.”  
-🔗 *Aprenda sempre. Pratique com responsabilidade. Cresça profissionalmente.*
-
-
----
-
-## ⚠️ Disclaimer
-
-> Todos os conteúdos deste repositório são para **fins educacionais e práticos** no campo da administração de redes. As técnicas e configurações devem ser aplicadas com autorização e responsabilidade.
 
 🧠 “Conheça sua rede. Administre com eficiência. Garanta a segurança.”  
 🔗 *Aprenda sempre. Pratique com responsabilidade. Cresça profissionalmente.*
