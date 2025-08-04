@@ -62,7 +62,7 @@ Atuar com responsabilidade, organização e conhecimento técnico para garantir 
 
 - 🔗 LinkedIn: [felipe-gomes](https://www.linkedin.com/in/felipe-gomes-1536b8372/)  
 - 📧 E-mail: [Gmail](yorrison.souza.corporativo@gmail.com)  
-- 🌐 Portfólio: [seuportfolio.com](https://redes-portfolio.vercel.app/)  
+- 🌐 Portfólio: [Portfolio-Redes](https://redes-portfolio.vercel.app/)  
 
 ---
 
