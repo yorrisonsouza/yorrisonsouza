@@ -60,8 +60,8 @@ Atuar com responsabilidade, organização e conhecimento técnico para garantir 
 
 ### 📫 Contato
 
-- 🔗 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/seunome)  
-- 📧 E-mail: seuemail@exemplo.com  
+- 🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/felipe-gomes-1536b8372/)  
+- 📧 E-mail: yorrison.souza.corporativo@gmail.com  
 - 🌐 Portfólio: [seu-portfolio](https://seu-portfolio.vercel.app)  
 
 ---
