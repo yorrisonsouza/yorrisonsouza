@@ -1,10 +1,7 @@
-# 🛡️ Bem-vindo(a) Pessoal 👨‍💻!
+🔍 Desenvolvedor Java | Especialista AWS Cloud Computing | Backend e Infraestrutura
 
-## 🔍 Administrador de Redes | Desenvolvedor Java | Cloud Computing | Infraestrutura e Desenvolvimento
+Sou um profissional multidisciplinar com foco em Desenvolvimento Java e Cloud Computing com AWS, atuando no desenvolvimento de aplicações backend robustas e escaláveis, além de infraestrutura de TI para ambientes corporativos.
 
-Sou um profissional multidisciplinar com foco em **Administração de Redes**, **Desenvolvimento Java** e **Cloud Computing**, atuando em infraestrutura de TI e desenvolvimento de soluções para ambientes corporativos.
-
-Meu objetivo é garantir a **disponibilidade, segurança e desempenho** dos sistemas de comunicação, além de desenvolver aplicações robustas e escaláveis na nuvem, automatizando processos e melhorando a infraestrutura.
 
 ---
 
@@ -14,8 +11,7 @@ Meu objetivo é garantir a **disponibilidade, segurança e desempenho** dos sist
 - 💻 Desenvolvimento backend em Java (Spring Boot, APIs REST)  
 - ☁️ Implantação e gerenciamento de soluções em AWS, Azure e Google Cloud  
 - 🛠️ Automação de infraestrutura com Docker, Kubernetes e scripts  
-- 📊 Monitoramento de tráfego, análise de segurança e performance  
-- 🧰 Suporte técnico, documentação e otimização de ambientes híbridos  
+- 📊 Monitoramento de tráfego, análise de segurança e performance 
 
 ---
 
