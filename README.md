@@ -1,59 +1,57 @@
-# 🔹 Felipe Yorrison | Desenvolvedor Java | Microsserviços | Cloud (AWS) | Backend Bancário
+# 📊 Felipe Yorrison | Cientista de Dados Estratégico | Empreendedor em Software de Gestão
 
-Sou **Desenvolvedor Back-End Java** com foco em **microsserviços**, **APIs REST** e **cloud computing** (AWS), atuando no desenvolvimento de **aplicações escaláveis e seguras** voltadas para **mercado financeiro e fintechs**. Tenho interesse em **sistemas corporativos de alta performance**, bancos de dados e soluções em nuvem.
+Sou **Cientista de Dados** e **Empreendedor/Fundador** do **[Finsight]**, um software de gestão de controle financeiro. Sou especializado em transformar **dados complexos em inteligência estratégica** para **Marketing e Performance Financeira**, atuando diretamente na criação de **modelos preditivos e análises profundas** para impulsionar o crescimento e otimizar as decisões de negócio na nossa plataforma.
 
 ---
 
 ### 💼 Áreas de Atuação
 
-- 💻 **Java (Spring Boot, Hibernate, Quarkus) e APIs RESTful**  
-- ☁️ **AWS Cloud Computing** (EC2, S3, Lambda, RDS, VPC)  
-- 🐳 **Docker** e **Kubernetes** para orquestração de microsserviços  
-- 🗄️ **Bancos de dados** relacionais (Oracle, MySQL, Postgres) e NoSQL (MongoDB)  
-- 🔧 **Infraestrutura e automação** de ambientes corporativos  
-- ⚡ Desenvolvimento de sistemas **robustos, seguros e escaláveis**  
+- 🎯 **Data Strategy e Machine Learning Aplicado** ao Marketing e Finanças (LTV, Churn, Otimização de Campanhas)
+- 💰 **Empreendedorismo e Product Analytics** (Foco no desenvolvimento e sucesso do **Software de Gestão Financeira**)
+- 📈 **Análise Financeira e Otimização de Desempenho** (Controle de Custos, Forecast)
+- 💻 **Python (Pandas, Scikit-learn), SQL** e ferramentas de Big Data
+- ☁️ **Estatística Avançada, Big Data e Cloud Computing** (AWS, Azure ou GCP)
+- 🚀 **Visão Empreendedora e Orientação a Resultados** para soluções escaláveis
 
 ---
 
 ### 🚀 Skills Técnicas
 
-- **Java 11/17+, Spring Boot, Hibernate, Quarkus**  
-- **Microsserviços, APIs REST, arquitetura distribuída**  
-- **AWS (EC2, S3, Lambda, RDS, VPC), Terraform, Cloud Networking**  
-- **Docker, Kubernetes, CI/CD, Git, DevOps**  
-- **SQL/NoSQL, PostgreSQL, MySQL, MongoDB**  
-- **Segurança, performance, escalabilidade, alta disponibilidade**  
-- **Metodologias Ágeis (Scrum, Kanban)**  
+- **Python, R, SQL, NoSQL**
+- **Machine Learning, Deep Learning, Estatística Aplicada**
+- **Visualização de Dados (Tableau, Power BI, Matplotlib)**
+- **Análise de Dados Financeiros e Métricas de SaaS (CAC, LTV)**
+- **Big Data (Spark, Hadoop) e Cloud Data Services**
+- **Metodologias Ágeis e Gestão de Produtos Orientada a Dados**
 
 ---
 
 ### 🏅 Certificações
 
-- **AWS Cloud Practitioner (Em andamento)**  
-- **Java Developer – Plataforma XYZ**  
-- **CCNA – Cisco Certified Network Associate (Em andamento)**  
-- **CompTIA Network+ (Em andamento)**  
+- **[Certificação AWS Certified Data Analytics - Specialty]**
+- **[Certificação Google Professional Data Engineer]**
+- **[Certificação Certificação em Finanças ou Marketing Digital Avançado]**
 
 ---
 
 ### 🛠️ Ferramentas e Tecnologias
 
-![Java](https://img.shields.io/badge/Java-CC9933?style=for-the-badge&logo=Java&logoColor=orange)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
 ### 📫 Contato
 
-- 🔗 LinkedIn: [Felipe Yorrison](https://www.linkedin.com/in/felipe-gomes-1536b8372/)  
-- 📧 E-mail: yorrison.souza.corporativo@gmail.com  
-- 🌐 Portfólio: [seu-portfolio](https://seu-portfolio.vercel.app)  
+- 🔗 LinkedIn: [Seu LinkedIn]
+- 📧 E-mail: [yorrison.souza.corporativo@gmail.com]
+- 🌐 Plataforma: [Link do Seu Software de Gestão Financeira]
 
 ---
 
-> ⚡ Foco em **desenvolvimento backend, microsserviços e cloud computing**, com interesse em **soluções para fintechs e sistemas financeiros**, garantindo **segurança, performance e escalabilidade**.
+> ⚡ Foco em **Data Science aplicada ao crescimento de negócios (Growth)**, como **Empreendedor** na área de **soluções financeiras**, criando **modelos de alto impacto** para maximizar a performance e a usabilidade do produto.
