@@ -5,7 +5,7 @@
 💼 Transição: Desenvolvedor Java → Analytics & Account Management<br>
 📊 Foco: Dados, Processos & Relacionamento com Clientes<br>
 🌎 Sangão, SC – Brasil<br>
-📧 <a href="mailto:yorrison.souza.coporativo@gmail.com">Email</a> | 🔗 <a href="https://linkedin.com/in/felipe-gomes">LinkedIn</a> | 💻 <a href="https://www.instagram.com/felipeyorrison_/">GitHub</a>
+📧 <a href="mailto:yorrison.souza.coporativo@gmail.com">Email</a> | 🔗 <a href="https://linkedin.com/in/felipe-gomes">LinkedIn</a> | 💻 <a href="https://www.instagram.com/felipeyorrison_/">Instagram</a>
 </p>
 
 ---
