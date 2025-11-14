@@ -1,8 +1,6 @@
-# Olá! 👋 Felipe Yorrison
-
 **Desenvolvedor Java Backend Júnior** | Focado em **Segurança de APIs** | Apaixonado por **Fintechs e Sistemas Bancários**  
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=30)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bem-vindo+ao+meu+nome+Felipe-Yorrison!&fontSize=30)
 
 ---
 
