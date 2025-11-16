@@ -1,115 +1,64 @@
-# 👋 Olá! Eu sou [Seu Nome]
+<p align="center">💫 Sobre Mim<br><br>    🚀 Desenvolvedor Júnior com foco em Java Backend e APIs seguras.<br>    🔒 Interesse especial em segurança, criptografia e proteção de dados.<br>    🌱 Aprendizado contínuo em Spring Boot, MySQL e OAuth2.<br>    🤝 Entusiasta de colaboração e projetos open-source.</p>
 
-**Desenvolvedor Java Backend Júnior** | Focado em **APIs seguras** | Apaixonado por **Fintechs e Sistemas Bancários**
+###
 
-![Header Animado](https://capsule-render.vercel.app/api?type=waving&color=&orange=150&section=header&text=Bem-vindo+meu+nome+Felipe-Yorrison!&fontSize=35)
+<p align="center">Desenvolvedor Java Backend Júnior | Focado em APIs seguras | Apaixonado por Fintechs e Sistemas Bancários</p>
 
+###
 
----
-
-## 💫 Sobre Mim
-- 🚀 Desenvolvedor Júnior com foco em **Java Backend** e **APIs seguras**.  
-- 🔒 Interesse especial em **segurança, criptografia e proteção de dados**.  
-- 🌱 Aprendizado contínuo em **Spring Boot, MySQL e OAuth2**.  
-- 🤝 Entusiasta de **colaboração e projetos open-source**.  
-
----
-
-## 🛠 Tecnologias & Skills
+<br clear="both">
 
 <div align="center">
-
-**Java & Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-**APIs & Segurança**  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-007ACC?style=for-the-badge&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-**Banco de Dados**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Versionamento**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="23" alt="typescript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="23" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="23" alt="java logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="23" alt="amazonwebservices logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="23" alt="git logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="23" alt="insomnia logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="23" alt="intellij logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="23" alt="kubernetes logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="23" alt="spring logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="23" alt="vscode logo"  />
 </div>
 
----
+###
 
-## 📊 Minhas Skills
+<br clear="both">
 
-<div>
-
-**Java**  
-<pre>██████████ 90%</pre>
-
-**Spring Boot**  
-<pre>█████████░ 85%</pre>
-
-**APIs & Segurança (JWT/OAuth2)**  
-<pre>████████ 80%</pre>
-
-**MySQL**  
-<pre>███████░░ 70%</pre>
-
-**Git & Versionamento**  
-<pre>████████░ 80%</pre>
-
-**Docker**  
-<pre>█████░░░░ 50%</pre>
-
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
 </div>
 
----
+###
 
-## 🎯 Projetos Interativos
+<br clear="both">
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-
-<div style="width:250px; border-radius:10px; border:1px solid #ddd; padding:10px; transition:0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h4>💼 API Fintech Segura</h4>
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100%" />
-  <p>API de transações bancárias com JWT e criptografia AES/RSA. Spring Boot + MySQL.</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yorrisonsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=yorrisonsouza&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yorrisonsouza&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<div style="width:250px; border-radius:10px; border:1px solid #ddd; padding:10px; transition:0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h4>🔒 Sistema de Login Seguro</h4>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
-  <p>Autenticação OAuth2 com refresh token e Spring Security.</p>
-</div>
+###
 
-<div style="width:250px; border-radius:10px; border:1px solid #ddd; padding:10px; transition:0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h4>🔧 Biblioteca Java Cripto</h4>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
-  <p>Módulo AES e RSA para criptografia de dados. Uso em projetos pessoais e testes de segurança.</p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yorrisonsouza/yorrisonsouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yorrisonsouza/yorrisonsouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yorrisonsouza/yorrisonsouza/output/pacman-contribution-graph.svg">
+</picture>
 
-</div>
-
----
-
-## 🏆 Conquistas & Certificados
-
-![Certificado Java](https://img.shields.io/badge/Certificado_Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Certificado Spring](https://img.shields.io/badge/Certificado_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Certificado Git](https://img.shields.io/badge/Certificado_Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
-
----
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gomes-1536b8372/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeyorrisonfl1@gmail.com)
-
----
+###
 
 > ⚡ Objetivo: Tornar-me **especialista em Java Backend e segurança de APIs**, com foco em **Fintechs e bancos**, iniciando como Júnior mas crescendo rapidamente.
