@@ -1,8 +1,9 @@
+
+<p align="center">Desenvolvedor Java Backend Júnior | Focado em APIs seguras | Apaixonado por Fintechs e Sistemas Bancários</p>
+
 <p align="center">💫 Sobre Mim<br><br>    🚀 Desenvolvedor Júnior com foco em Java Backend e APIs seguras.<br>    🔒 Interesse especial em segurança, criptografia e proteção de dados.<br>    🌱 Aprendizado contínuo em Spring Boot, MySQL e OAuth2.<br>    🤝 Entusiasta de colaboração e projetos open-source.</p>
 
 ###
-
-<p align="center">Desenvolvedor Java Backend Júnior | Focado em APIs seguras | Apaixonado por Fintechs e Sistemas Bancários</p>
 
 ###
 
