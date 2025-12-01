@@ -63,13 +63,6 @@ A secure REST API using Spring Security, JWT authentication, and role-based acce
 ### 🔹 **Threat Hunting Mini-Lab**
 
 Local environment for testing detections, log analysis, and hands-on cyber defense.
-
----
-
-## 📫 Contact
-
-* **LinkedIn:** (https://www.linkedin.com/in/felipe-gomes-1536b8372/)
-
 ---
 
 ###
@@ -78,25 +71,29 @@ Local environment for testing detections, log analysis, and hands-on cyber defen
 
 <br clear="both">
 
+
 <div align="center">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="23" alt="Wireshark logo" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="23" alt="typescript logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="23" alt="react logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="23" alt="java logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="23" alt="amazonwebservices logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="23" alt="git logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="23" alt="insomnia logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="23" alt="intellij logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="23" alt="kubernetes logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="23" alt="spring logo"  />
-  <img width="14" />
+   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="23" alt="vscode logo"  />
 </div>
 
