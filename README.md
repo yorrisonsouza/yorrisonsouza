@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Felipe — Junior Information Security Analyst (SOC N1) & Java Backend Developer
+# 👋 <h2>Hi, I'm Felipe — Junior Information Security Analyst (SOC N1) & Java Backend Developer<h2/>
 
 ## 🛡️ Junior Information Security Analyst (SOC N1)
 
