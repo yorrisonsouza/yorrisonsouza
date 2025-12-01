@@ -1,7 +1,76 @@
+# 👋 Hi, I'm Felipe — Junior Information Security Analyst (SOC N1) & Java Backend Developer
 
-<p align="center">Desenvolvedor Java Backend Júnior | Focado em APIs seguras | Apaixonado por Fintechs e Sistemas Bancários</p>
+## 🛡️ Junior Information Security Analyst (SOC N1)
 
-<p align="center">💫 Sobre Mim<br><br>    🚀 Desenvolvedor Júnior com foco em Java Backend e APIs seguras.<br>    🔒 Interesse especial em segurança, criptografia e proteção de dados.<br>    🌱 Aprendizado contínuo em Spring Boot, MySQL e OAuth2.<br>    🤝 Entusiasta de colaboração e projetos open-source.</p>
+Focused on threat detection, log analysis, and incident triage. Experienced with SIEM tools, monitoring environments, and applying MITRE ATT&CK techniques for defensive analysis.
+
+### **Security Skills**
+
+* SIEM Monitoring & Alert Triage
+* Log Analysis (Windows, Linux, Network)
+* MITRE ATT&CK Mapping
+* Threat Intelligence & IOC Analysis
+* Basic Packet Analysis (Wireshark)
+* Nmap • Suricata • Wazuh
+* Incident Response Fundamentals
+* Cyber Defense & Security Best Practices
+
+---
+
+## ☕ Java Backend Developer
+
+Building secure, scalable backend services using modern Java stacks.
+
+### **Development Skills**
+
+* **Java 17+**
+* **Spring Boot / Spring Security**
+* RESTful APIs & Secure APIs
+* JPA / Hibernate
+* PostgreSQL / MySQL
+* Clean Architecture & SOLID
+
+---
+
+## 🧰 Tech Stack
+
+**Security:** SIEM • MITRE ATT&CK • Suricata • Wazuh • Nmap • Wireshark
+**Backend:** Java • Spring Boot • Spring Security • Maven
+**Tools:** Git • Docker • Linux • Postman
+
+---
+
+## 📚 Currently Learning
+
+* Advanced SOC Analysis
+* Cloud Security (AWS Basics)
+* Secure API Design
+* Malware Behavior Basics
+* Java Microservices
+
+---
+
+## 🚀 Projects
+
+### 🔹 **SOC Playbooks (Beginner-friendly)**
+
+Step-by-step playbooks for common alerts such as brute force, phishing, and suspicious login activity.
+
+### 🔹 **Java Secure API – Spring Boot**
+
+A secure REST API using Spring Security, JWT authentication, and role-based access control.
+
+### 🔹 **Threat Hunting Mini-Lab**
+
+Local environment for testing detections, log analysis, and hands-on cyber defense.
+
+---
+
+## 📫 Contact
+
+* **LinkedIn:** (https://www.linkedin.com/in/felipe-gomes-1536b8372/)
+
+---
 
 ###
 
@@ -62,4 +131,4 @@
 
 ###
 
-> ⚡ Objetivo: Tornar-me **especialista em Java Backend e segurança de APIs**, com foco em **Fintechs e bancos**, iniciando como Júnior mas crescendo rapidamente.
+🔥 *Focused on continuous learning, building practical solutions, and evolving in cybersecurity and backend development.*
