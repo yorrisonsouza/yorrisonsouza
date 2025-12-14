@@ -1,111 +1,132 @@
-# <h2>Hi, I'm Felipe — SOC N1 Analyst, Java Backend & Robotics Engineer 🚀<h2/>
+# Felipe Yorrison
 
-## 🛡️ Junior Information Security Analyst (SOC N1)
-
-Focused on threat detection, log analysis, and incident triage. Experienced with SIEM tools, MITRE ATT&CK, and hands-on incident response.  
-Exploring **Post-Quantum Security** and cryptography to prepare SOCs for future threats.
-
-### **Security Skills**
-* SIEM Monitoring & Alert Triage
-* Log Analysis (Windows, Linux, Network)
-* MITRE ATT&CK Mapping
-* Threat Intelligence & IOC Analysis
-* Basic Packet Analysis (Wireshark)
-* Nmap • Suricata • Wazuh
-* Incident Response Fundamentals
-* Cyber Defense & Security Best Practices
-* Post-Quantum Security Fundamentals
+SOC Analyst (N1) | Information Security | SIEM & Log Analysis | Secure Backend Development | Automation & Quantum-Safe Security
 
 ---
 
-## ☕ Java Backend Developer
+## About Me
 
-Building secure, scalable backend services using modern Java stacks.
+I am a SOC Analyst (N1) focused on security monitoring, log analysis, and incident triage within defensive security operations. I work with SIEM-based detection, MITRE ATT&CK mapping, and foundational incident response activities.
 
-### **Development Skills**
-* Java 17+
-* Spring Boot / Spring Security
-* RESTful APIs & Secure APIs
-* JPA / Hibernate
-* PostgreSQL / MySQL
-* Clean Architecture & SOLID
+Alongside my SOC role, I study Post-Quantum Cryptography (PQC) to understand how quantum threats impact cryptographic systems such as TLS, VPNs, and digital certificates. My focus is practical and strategic, centered on cryptographic risk assessment, algorithm transition, and long-term data protection against store-now, decrypt-later scenarios.
+
+I also maintain foundational knowledge of Quantum Key Distribution (QKD), with an emphasis on real-world constraints and niche applications in high-value and inter-regional communication links.
+
+In parallel, I have experience in secure backend development using Java and Spring Boot, and I am gradually expanding into automation and industrial robotics with a focus on software-driven motion control rather than mechanical engineering.
 
 ---
 
-## 🤖 Robotics & Embedded Systems Engineer
+## Security Operations (SOC N1)
 
-Working with robotic motion control, embedded systems, and automation projects. Experienced with ROS2, RTOS, and hardware-software integration. Exploring **quantum computing applications in robotics**.
-
-### **Robotics & Embedded Skills**
-* ROS2 • RTOS • Motion Control
-* C++ • Java • Assembly
-* Embedded Systems & Sensors
-* Industrial & Simulation Robotics
-* Robotics Algorithms & Automation
-
----
-
-## 🧰 Tech Stack
-**Security:** SIEM • MITRE ATT&CK • Suricata • Wazuh • Nmap • Wireshark • Post-Quantum Security  
-**Backend:** Java • Spring Boot • Spring Security • Maven  
-**Robotics:** ROS2 • RTOS • Motion Control • Embedded C++  
-**Tools:** Git • Docker • Linux • Postman  
+- Security monitoring and alert triage using SIEM platforms (ELK and Splunk concepts)
+- Log analysis across Windows, Linux, and network sources
+- MITRE ATT&CK technique mapping and detection context
+- Threat intelligence consumption and IOC analysis
+- Basic packet analysis using Wireshark
+- Network reconnaissance and analysis with Nmap
+- IDS and monitoring fundamentals using Suricata and Wazuh
+- Incident response fundamentals and escalation support
+- Defensive security best practices
 
 ---
 
-## 📚 Currently Learning
-* Advanced SOC Analysis  
-* Cloud Security (AWS Basics)  
-* Secure API Design  
-* Malware Behavior Basics  
-* Java Microservices  
-* Quantum Computing & Cryptography  
-* Robotics Algorithms & Automation  
+## Cryptography and Quantum-Safe Security
+
+- Post-Quantum Cryptography (PQC) fundamentals
+- Cryptographic risks related to RSA and ECC
+- Awareness of quantum threats and cryptographic longevity
+- Cryptographic transition concepts for TLS, VPNs, and certificates
+- Foundational knowledge of Quantum Key Distribution (QKD)
+- Understanding of QKD limitations, deployment challenges, and niche use cases
 
 ---
 
-## 🚀 Projects
+## Secure Backend Development (Java)
 
-### 🔹 SOC Playbooks (Beginner-friendly)
-Step-by-step playbooks for common alerts such as brute force, phishing, and suspicious login activity.
-
-### 🔹 Java Secure API – Spring Boot
-A secure REST API using Spring Security, JWT authentication, and role-based access control.
-
-### 🔹 Robotics Motion Lab
-Simulation environment for robotic motion, embedded programming, and automation testing.
-
-### 🔹 Threat Hunting Mini-Lab
-Local environment for testing detections, log analysis, and hands-on cyber defense.
+- Java 17 and above
+- Spring Boot and Spring Security
+- RESTful API design and secure API implementation
+- Authentication and authorization concepts (JWT, RBAC)
+- JPA and Hibernate
+- PostgreSQL and MySQL
+- Clean Architecture and SOLID principles
+- Secure coding practices
 
 ---
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="23" alt="Wireshark logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="23" alt="java logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="23" alt="c++ logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="23" alt="ros logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="23" alt="linux logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="23" alt="git logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="23" alt="spring logo" />
-  <img width="14" />
-  <img src="https://img.shields.io/badge/Post-Quantum-Security-blue?style=for-the-badge&logo=quantumcomputing" height="23" alt="Post-Quantum Security badge" />
-</div>
+## Robotics and Automation (Industrial Focus)
+
+- Programming logic for robotic motion and automation
+- ROS2 fundamentals and simulation-based robotics
+- RTOS concepts
+- Embedded systems and sensor integration (software-focused)
+- C++ and Java applied to control logic
+- Industrial and simulation robotics environments
+- Automation-oriented programming
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yorrisonsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=yorrisonsouza&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yorrisonsouza&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" />
-</div>
+## Technical Skills
+
+### Security
+- SIEM
+- MITRE ATT&CK
+- Log Analysis
+- Threat Intelligence
+- Incident Response Fundamentals
+- Wireshark
+- Nmap
+- Suricata
+- Wazuh
+- Post-Quantum Cryptography
+
+### Backend Development
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- JPA
+- Hibernate
+- PostgreSQL
+- MySQL
+
+### Robotics and Automation
+- ROS2
+- RTOS
+- Motion Control Concepts
+- Embedded C++
+- Automation Logic
+
+### Tools and Platforms
+- Linux
+- Git
+- Docker
+- Postman
 
 ---
 
-🔥 *Focused on continuous learning, building practical solutions, and evolving in cybersecurity, robotics, backend development, and post-quantum readiness.*
+## Projects
+
+### SOC Playbooks
+Structured playbooks for common SOC alerts, including brute force attempts, phishing indicators, and suspicious authentication behavior.
+
+### Secure Java API
+Secure REST API built with Spring Boot and Spring Security, implementing JWT authentication and role-based access control.
+
+### Robotics Motion Lab
+Simulation-focused environment for robotic motion logic, automation testing, and control flow validation.
+
+### Threat Hunting Mini Lab
+Local laboratory for log ingestion, detection testing, and hands-on defensive security analysis.
+
+---
+
+## Current Learning Focus
+
+- Advanced SOC analysis and detection fundamentals
+- Post-Quantum Cryptography and cryptographic transition strategies
+- TLS and secure communications
+- Cloud security fundamentals (AWS basics)
+- Secure API design
+- Malware behavior fundamentals
+- Robotics motion algorithms and automation logic
