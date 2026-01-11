@@ -1,132 +1,76 @@
 # Felipe Yorrison
-
-SOC Analyst (N1) | Information Security | SIEM & Log Analysis | Secure Backend Development | Automation & Quantum-Safe Security
-
----
-
-## About Me
-
-I am a SOC Analyst (N1) focused on security monitoring, log analysis, and incident triage within defensive security operations. I work with SIEM-based detection, MITRE ATT&CK mapping, and foundational incident response activities.
-
-Alongside my SOC role, I study Post-Quantum Cryptography (PQC) to understand how quantum threats impact cryptographic systems such as TLS, VPNs, and digital certificates. My focus is practical and strategic, centered on cryptographic risk assessment, algorithm transition, and long-term data protection against store-now, decrypt-later scenarios.
-
-I also maintain foundational knowledge of Quantum Key Distribution (QKD), with an emphasis on real-world constraints and niche applications in high-value and inter-regional communication links.
-
-In parallel, I have experience in secure backend development using Java and Spring Boot, and I am gradually expanding into automation and industrial robotics with a focus on software-driven motion control rather than mechanical engineering.
+### **Security Engineer | SOC Operations | Ransomware Defense | Low-Level & Quantum-Safe Security**
 
 ---
 
-## Security Operations (SOC N1)
+## 🛡️ Professional Profile
 
-- Security monitoring and alert triage using SIEM platforms (ELK and Splunk concepts)
-- Log analysis across Windows, Linux, and network sources
-- MITRE ATT&CK technique mapping and detection context
-- Threat intelligence consumption and IOC analysis
-- Basic packet analysis using Wireshark
-- Network reconnaissance and analysis with Nmap
-- IDS and monitoring fundamentals using Suricata and Wazuh
-- Incident response fundamentals and escalation support
-- Defensive security best practices
+I am a Security Professional specializing in **Security Operations (SOC)** and **Network Defense**, with a deep focus on the **Ransomware Lifecycle**. I bridge the gap between high-level monitoring and low-level system engineering. 
+
+My expertise combines real-time threat detection (SIEM/Log Analysis) with the ability to dissect malware behavior using **C/C++, Rust, and Java**. I am dedicated to building resilient perimeters against lateral movement and exfiltration, while researching **Post-Quantum Cryptography (PQC)** to mitigate "Store Now, Decrypt Later" threats in critical infrastructures.
 
 ---
 
-## Cryptography and Quantum-Safe Security
+## 🛠️ Security Operations & Ransomware Defense
 
-- Post-Quantum Cryptography (PQC) fundamentals
-- Cryptographic risks related to RSA and ECC
-- Awareness of quantum threats and cryptographic longevity
-- Cryptographic transition concepts for TLS, VPNs, and certificates
-- Foundational knowledge of Quantum Key Distribution (QKD)
-- Understanding of QKD limitations, deployment challenges, and niche use cases
-
----
-
-## Secure Backend Development (Java)
-
-- Java 17 and above
-- Spring Boot and Spring Security
-- RESTful API design and secure API implementation
-- Authentication and authorization concepts (JWT, RBAC)
-- JPA and Hibernate
-- PostgreSQL and MySQL
-- Clean Architecture and SOLID principles
-- Secure coding practices
+* **Threat Detection & SIEM:** Advanced monitoring and alert triage using **ELK Stack** and **Splunk**. Expertise in creating detection rules for Windows/Linux artifacts.
+* **Ransomware Lifecycle Analysis:** Deep understanding of the **Cyber Kill Chain**, focusing on preventing lateral movement (SMB/RDP) and data exfiltration.
+* **Network Forensics & Analysis:** Deep packet inspection (DPI) using **Wireshark** and **TCPDump**. Experience with **ProxyChains, Tor, and WireGuard** for secure/anonymous circuit analysis.
+* **Detection Engineering:** Implementing and tuning **Wazuh (EDR)**, **Suricata (IDS)**, and **Nmap** for proactive surface mapping.
+* **Framework Mapping:** Aligning defensive strategies with the **MITRE ATT&CK** framework to identify visibility gaps.
 
 ---
 
-## Robotics and Automation (Industrial Focus)
+## 🔐 Quantum-Safe & Network Engineering
 
-- Programming logic for robotic motion and automation
-- ROS2 fundamentals and simulation-based robotics
-- RTOS concepts
-- Embedded systems and sensor integration (software-focused)
-- C++ and Java applied to control logic
-- Industrial and simulation robotics environments
-- Automation-oriented programming
+* **Post-Quantum Cryptography (PQC):** Researching the transition from RSA/ECC to lattice-based algorithms (Kyber/Dilithium) for **VPNs, TLS, and PKI**.
+* **Cryptographic Resilience:** Implementing hybrid encryption layers to protect against future quantum-decrypt threats.
+* **Secure Networking:** Configuring hardened VPN tunnels and multi-hop routing to secure sensitive communication links.
+* **QKD Awareness:** Foundational knowledge of Quantum Key Distribution for high-value link protection.
 
 ---
 
-## Technical Skills
+## 💻 Secure Development & Low-Level
 
-### Security
-- SIEM
-- MITRE ATT&CK
-- Log Analysis
-- Threat Intelligence
-- Incident Response Fundamentals
-- Wireshark
-- Nmap
-- Suricata
-- Wazuh
-- Post-Quantum Cryptography
-
-### Backend Development
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- JPA
-- Hibernate
-- PostgreSQL
-- MySQL
-
-### Robotics and Automation
-- ROS2
-- RTOS
-- Motion Control Concepts
-- Embedded C++
-- Automation Logic
-
-### Tools and Platforms
-- Linux
-- Git
-- Docker
-- Postman
+* **System-Level Engineering:** Utilizing **C/C++ and Rust** for high-performance security tools, socket programming, and memory-safe system monitoring.
+* **Secure Backend:** Advanced **Java (17+) & Spring Boot** developer. Architecting secure APIs with JWT, RBAC, and Spring Security.
+* **Automation & Robotics (OT Security):** Applying **ROS2 and RTOS** concepts to secure industrial automation and motion control systems against cyber-physical threats.
+* **DevSecOps:** Managing software supply chain risks (SCA) using tools like **Dependi** to mitigate CVEs in third-party libraries.
 
 ---
 
-## Projects
+## 🚀 Technical Stack
 
-### SOC Playbooks
-Structured playbooks for common SOC alerts, including brute force attempts, phishing indicators, and suspicious authentication behavior.
-
-### Secure Java API
-Secure REST API built with Spring Boot and Spring Security, implementing JWT authentication and role-based access control.
-
-### Robotics Motion Lab
-Simulation-focused environment for robotic motion logic, automation testing, and control flow validation.
-
-### Threat Hunting Mini Lab
-Local laboratory for log ingestion, detection testing, and hands-on defensive security analysis.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **SOC / Blue Team** | Splunk, ELK, Wazuh, Suricata, Wireshark, Nmap, MITRE ATT&CK |
+| **Security Languages** | Rust, C/C++, Java (Spring Boot), Python, Bash |
+| **Networking** | WireGuard, ProxyChains, Tor Control, TCP/IP, Sockets |
+| **Infrastr. / DevOps** | Linux (Kali/Ubuntu), Docker, Git, PostgreSQL, SCA (Dependi) |
+| **Quantum/PQC** | Kyber, Dilithium, OQS (Open Quantum Safe) |
 
 ---
 
-## Current Learning Focus
+## 🧪 Featured Security Projects
 
-- Advanced SOC analysis and detection fundamentals
-- Post-Quantum Cryptography and cryptographic transition strategies
-- TLS and secure communications
-- Cloud security fundamentals (AWS basics)
-- Secure API design
-- Malware behavior fundamentals
-- Robotics motion algorithms and automation logic
+### 🕵️ [Ransomware Simulation & Detection Lab]
+A controlled environment for executing malware samples to analyze log generation in **SIEM** and test **Wazuh** FIM (File Integrity Monitoring) alerts in real-time.
+
+### 🔒 [Secure WireGuard Tunneling Utility]
+A custom implementation of encrypted network circuits with integrated **Kill-Switch** logic to prevent IP/DNS leaks during threat hunting sessions.
+
+### ⚛️ [Post-Quantum VPN Research]
+A prototype testing the performance overhead of PQC algorithms in encrypted tunnels, focusing on low-latency requirements for **OT/Industrial** environments.
+
+---
+
+## 🎯 Current Focus
+* Advanced Threat Hunting & Malware Reverse Engineering.
+* PQC Transition Strategies for enterprise-scale infrastructures.
+* Detection Engineering for preventing data exfiltration in high-stakes environments.
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gomes-1536b8372/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
