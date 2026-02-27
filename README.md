@@ -1,71 +1,71 @@
-# Felipe Yorrison
-### **Malware Engineer | Reverse Engineering | AI-Driven Defense | Low-Level Specialist**
+# ⚡ FELIPE YORRISON
+### **Malware Engineer | Reverse Engineering | Linux Internals Specialist**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OPERATIONS-REVERSE_ENGINEERING-red?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/RESEARCH-LOW_LEVEL-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/GOAL-DIGITAL_FORENSICS_PF-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛡️ Perfil Profissional
+## 🛡️ INVESTIGATION PROFILE & CORE EXPERTISE
 
-Atuo na intersecção entre o **desenvolvimento ofensivo** e a **engenharia reversa**, dedicado a decifrar a mecânica interna de malwares modernos para arquitetar defesas de próxima geração. Minha filosofia baseia-se na premissa de que, para construir um sistema resiliente, deve-se primeiro dominar a arte da subversão.
+Especialista em **Análise de Baixo Nível** e **Engenharia Reversa**. Atuação técnica pautada pelo **Rigor Científico** e pela **Cadeia de Custódia**, garantindo que a dissecação de artefatos maliciosos (Ring 3 ao Ring 0) resulte em inteligência forense admissível em exames de alta complexidade.
 
-Minha pesquisa principal foca no **MADEC**, um motor de detecção de inspiração imunológica projetado para neutralizar ameaças sofisticadas, incluindo malwares polimórficos e exploits otimizados por IA. Transitando entre **C/C++, Rust e Java**, busco conectar o Ring 3 ao Ring 0, garantindo a integridade da "verdade absoluta" (*ground truth*) do Sistema Operacional.
-
----
-
-## 🔬 Engenharia Ofensiva & Pesquisa de Malware
-
-* **Offensive Development (PoCs):** Desenvolvimento de Provas de Conceito focadas em técnicas de evasão, injeção avançada de processos (*Process Hollowing*, *Ptrace*) e persistência furtiva (*stealth*).
-* **Engenharia Reversa:** Análise binária estática e dinâmica para desconstruir algoritmos de criptografia customizados e protocolos de comunicação *Command & Control* (C2).
-* **Hooking & Hijacking:** Especialista em interceptação de chamadas de sistema (*syscalls*) e manipulação de carregamento dinâmico de bibliotecas via `LD_PRELOAD` e *inline hooking*.
-* **Mecânica de Ransomware:** Estudo aprofundado do ciclo de vida de *cryptowares*, focando em mitigar movimentos laterais e exfiltração de dados antes da fase crítica de criptografia.
+Minha expertise une a desconstrução de binários ofuscados ao desenvolvimento de contramedidas resilientes em **C, Assembly e Rust**, focando na integridade da "verdade absoluta" do Sistema Operacional.
 
 ---
 
-## 🤖 IA & Defesa Imunológica (Projeto MADEC)
+## 🔬 TECHNICAL CAPABILITIES
 
-* **MADEC (Detecção Imunoinspirada):** Desenvolvimento de um mecanismo de defesa proativo que mimetiza sistemas imunológicos biológicos para identificar anomalias comportamentais em tempo real.
-* **Threat Hunting via IA:** Pesquisa de modelos de *Machine Learning* para identificar padrões de ataque gerados por IA adversária, como geração automatizada de exploits.
-* **Análise Heurística:** Transição da detecção baseada em assinaturas para o mapeamento comportamental e heurístico profundo.
-
----
-
-## 🔐 Pós-Quântica & Engenharia de Redes
-
-* **Criptografia Pós-Quântica (PQC):** Implementação e benchmarking de algoritmos baseados em redes (*lattice-based*), como Kyber/Dilithium, contra ameaças "Store Now, Decrypt Later".
-* **Redes Seguras:** Arquitetura de túneis WireGuard endurecidos (*hardened*) com camadas híbridas de criptografia quântico-segura.
-
----
-
-## 💻 Tech Stack
-
-| Categoria | Ferramentas & Tecnologias |
+| Setor | Especialidade Operacional |
 | :--- | :--- |
-| **Ofensivo/Defensivo** | C, C++, Rust, x86_64 Assembly, Python, GDB, Ghidra, Wireshark |
-| **Security Engineering** | Wazuh (EDR Customization), Suricata (IDS), SIEM (ELK/Splunk) |
-| **Low-Level/OS** | Linux Kernel Modules (LKM), Socket Programming, Memory Management |
-| **Backend & Architecture** | Java (Spring Boot), JWT, RBAC, Docker, PostgreSQL |
+| **Reverse Engineering** | Análise estática/dinâmica de binários **ELF/PE**, unpacking e desconstrução de C2 protocols. |
+| **Linux Internals** | Hooking de **Syscalls**, manipulação de memória (Stack/Heap) e análise de execução *fileless*. |
+| **Rootkit Analysis** | Investigação de técnicas de ocultação e persistência furtiva em nível de Kernel. |
+| **Digital Forensics** | Geração de **Regras YARA**, extração de IOCs e preservação de evidências voláteis. |
+| **Adversarial AI** | Mitigação de exploits mutáveis e análise de ofuscação gerada por modelos de linguagem (LLM). |
 
 ---
 
-## 🧪 Projetos de Segurança em Destaque
+## 🛠️ OPERATIONAL ARSENAL
 
-### 👻 [GhostFile-Rootkit-PoC](https://github.com/yorrisonsouza/GhostFile-Rootkit-PoC)
-Estudo sobre **Userland Rootkits** utilizando hooking de `LD_PRELOAD` em C. Demonstra técnicas de ocultação de artefatos e metodologias forenses de detecção.
-
-### 🧬 [MADEC - Immuno-Detection System]
-Meu projeto principal: Um motor de detecção proativa que utiliza lógica imunológica para neutralizar comportamentos maliciosos de forma antecipada.
-
-### ⚛️ [Post-Quantum VPN Research]
-Protótipo de túnel VPN PQC-enabled, testando o overhead de algoritmos baseados em redes em ambientes de Automação Industrial (OT).
+* **Analysis:** Radare2, GDB, Ghidra, Wireshark, Strace/Ltrace, Binary Ninja.
+* **Systems:** Linux Kernel Modules (LKM), Ptrace Injection, Memory Management.
+* **Defensive:** Wazuh (EDR Customization), WireGuard Hardening, YARA.
+* **Development:** C, C++, x86_64 Assembly, Rust, Python, Java (Spring Boot).
 
 ---
 
-## 🎯 Foco Atual
-* **Evasão Avançada:** Pesquisa em manipulação de *heap* e execução *memory-only*.
-* **Contramedidas de IA:** Barreiras contra malwares que utilizam LLMs para mutação automatizada de código.
-* **LKM Research:** Migração de técnicas de furtividade de Userland para nível de Kernel (Ring 0).
+## 🧪 RESEARCH & INTELLIGENCE REPORTS (R&D)
+
+#### 🧬 [CHAMELEON HUNTER - ADVANCED ANALYSIS]
+> **STATUS:** ACTIVE OPS.
+> Engine de análise técnica para detecção de anomalias comportamentais e neutralização de vetores de ataque. Foco em detecção proativa e integridade de processos em tempo real.
+
+#### 💀 [GHOSTFILE-ROOTKIT-POC](https://github.com/yorrisonsouza/GhostFile-Rootkit-PoC)
+> **STATUS:** COMPLETED.
+> Pesquisa avançada sobre persistência em Userland via `LD_PRELOAD`. Metodologia para detecção pericial de rootkits em sistemas de missão crítica.
+
+#### ⚛️ [POST-QUANTUM CRYPTO RESEARCH]
+> **STATUS:** RESEARCH.
+> Implementação de algoritmos Kyber/Dilithium (Lattice-based) em infraestruturas de rede para resiliência contra ameaças quânticas.
 
 ---
 
-## 📫 Conecte-se comigo
+## 🎯 STRATEGIC FOCUS
+* **Elucidação Pericial:** Engenharia reversa aplicada como prova técnica em incidentes críticos.
+* **Rigor Procedimental:** Implementação de padrões de custódia na extração de artefatos de memória.
+* **Anti-Evasion Tech:** Estudo de contramedidas para injeção de processos e manipulação avançada de heap.
+
+---
+
+## 📡 CONNECTIVITY
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gomes-1536b8372/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yorrisonsouza)
+
+---
+<p align="center">
+  <i>"In binary we trust, in memory we investigate."</i>
+</p>
