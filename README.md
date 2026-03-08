@@ -221,6 +221,10 @@ impl Researcher {
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yorrisonsouza)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yorrisonsouza)
 
+Countries and Languages
+
+🇨🇳 China — Chinese | 🇺🇸 United States — English | 🇷🇺 Russia — Russian | 🇵🇹 Portugal — Portuguese
+
 </div>
 
 ---
