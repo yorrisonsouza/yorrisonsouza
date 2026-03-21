@@ -1,10 +1,37 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:ff0000&height=200&section=header&text=Yorrison&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Security%20Researcher%20%7C%20Malware%20Analyst%20%7C%20Rust%20Developer&descAlignY=55&descSize=18&descColor=ff4444&animation=fadeIn" width="100%"/>
+<div align="center">
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Red+Team+%26+Offensive+Security;Malware+Analysis+%26+Reverse+Engineering;Network+Security+%26+Protocol+Analysis;Security+Tools+in+Rust+%F0%9F%A6%80)](https://git.io/typing-svg)
+
+</div>
+
+<!-- 🔥 SEU BLOCO NOVO AQUI -->
+<div align="center">
+
+<pre>
+███╗   ███╗ █████╗ ██╗     ██╗    ██╗ █████╗ ██████╗ ███████╗
+████╗ ████║██╔══██╗██║     ██║    ██║██╔══██╗██╔══██╗██╔════╝
+██╔████╔██║███████║██║     ██║ █╗ ██║███████║██████╔╝█████╗  
+██║╚██╔╝██║██╔══██║██║     ██║███╗██║██╔══██║██╔══██╗██╔══╝  
+██║ ╚═╝ ██║██║  ██║███████╗╚███╔███╔╝██║  ██║██║  ██║███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+</pre>
+
+**Malware Analyst · Reverse Engineer · C2 & Traffic Analysis · DFIR · C · Assembly**
+
+<sub>
+HEX:<br>
+4d 61 6c 77 61 72 65 20 41 6e 61 6c 79 73 69 73
+</sub>
+
+<br>
+
+<sub>
+XOR(0xAA):<br>
+e7 cb c6 dd cb d8 cf 8a eb c4 cb c6 d3 d9 c3 d9
+</sub>
+
+</div>
 
 <br/>
 
