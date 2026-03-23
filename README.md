@@ -1,45 +1,9 @@
-<div align="center">
+ ### Felipe Yorrison
 
-<div align="center">
+Malware Analyst · Reverse Engineer · C2 & Traffic Analysis · DFIR · C · Assembly
 
-
-</div>
-
-<!-- 🔥 SEU BLOCO NOVO AQUI -->
-<div align="center">
-
-<pre>
-███╗   ███╗ █████╗ ██╗     ██╗    ██╗ █████╗ ██████╗ ███████╗
-████╗ ████║██╔══██╗██║     ██║    ██║██╔══██╗██╔══██╗██╔════╝
-██╔████╔██║███████║██║     ██║ █╗ ██║███████║██████╔╝█████╗  
-██║╚██╔╝██║██╔══██║██║     ██║███╗██║██╔══██║██╔══██╗██╔══╝  
-██║ ╚═╝ ██║██║  ██║███████╗╚███╔███╔╝██║  ██║██║  ██║███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-</pre>
-
-**Malware Analyst · Reverse Engineer · C2 & Traffic Analysis · DFIR · C · Assembly**
-
-<sub>
-HEX:<br>
-4d 61 6c 77 61 72 65 20 41 6e 61 6c 79 73 69 73
-</sub>
-
-<br>
-
-<sub>
-XOR(0xAA):<br>
-e7 cb c6 dd cb d8 cf 8a eb c4 cb c6 d3 d9 c3 d9
-</sub>
-
-</div>
-
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=yorrisonsouza&color=ff0000&style=flat-square&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/yorrisonsouza?color=ff0000&style=flat-square&label=FOLLOWERS)
-
-</div>
+🌐 Also interested in Cyber Diplomacy & International Relations
+→ twitter.com/FelipeDiplomacy
 
 ---
 
